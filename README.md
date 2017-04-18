@@ -35,31 +35,31 @@ c) Ownership history of all above facilities
 
 - __Passage__: "...state officials have excluded nearly 8,000 substantiated complaints of 
 substandard care from the state’s website."
-- __Analysis__: [This notebook](notebooks/analysis/complaints-analysis-after-state-updates.ipynb) shows our calculations.
+- __Analysis__: [This notebook](notebooks/analysis/complaints-analysis-after-state-updates.ipynb).
 
 ***
 
 - __Passage__: "More than 60 percent of the substantiated complaints against care centers in Oregon since 2005 
 can’t be found on the state’s website."
-- __Analysis__: [This notebook](notebooks/analysis/complaints-analysis-after-state-updates.ipynb) shows our calculations.
+- __Analysis__: [This notebook](notebooks/analysis/complaints-analysis-after-state-updates.ipynb).
 
 ***
 
 - __Passage__: "But the state website did not reveal the 10 times that Washington Gardens had been hit with 
 substantiated findings of abuse, neglect or poor care."
-- __Analysis__: [This notebook](notebooks/analysis/washington-gardens.ipynb) shows our calculations.
+- __Analysis__: [This notebook](notebooks/analysis/washington-gardens.ipynb).
 
 ***
 
 - __Passage__: "About 600 nursing homes and other senior care centers around Oregon have incomplete records online, 
 The Oregonian/OregonLive’s analysis found."
-- __Analysis__: [This notebook](notebooks/analysis/facilities-analysis-after-state-updates.ipynb)
+- __Analysis__: [This notebook](notebooks/analysis/facilities-analysis-after-state-updates.ipynb).
 
 ***
 
 - __Passage__: "Just 9 percent of residential care centers, assisted living facilities and nursing homes had 
 accurate records online."
-- __Analysis__: [This notebook](notebooks/analysis/facilities-analysis-after-state-updates.ipynb)
+- __Analysis__: [This notebook](notebooks/analysis/facilities-analysis-after-state-updates.ipynb).
 
 ***
 
@@ -72,7 +72,7 @@ accurate records online.
 
    In all, facilities with incomplete records have the combined capacity to serve 
    more than 35,000 people."
-- __Analysis__: [This notebook](notebooks/analysis/facilities-analysis-after-state-updates.ipynb)
+- __Analysis__: [This notebook](notebooks/analysis/facilities-analysis-after-state-updates.ipynb).
 
 ***
 
@@ -82,14 +82,14 @@ prompted the state to demand a “plan of action” from Pacific Gardens.
 
    But only one of the state findings is online: a resident who received another person’s medication and became sedated. The other 
    16 cases ended with no visible harm and are hidden from website visitors."
-- __Analysis__: [This notebook](notebooks/analysis/pacific-gardens.ipynb)
+- __Analysis__: [This notebook](notebooks/analysis/pacific-gardens.ipynb).
 
 ***
 
 - __Passage__: "Complaints labeled “potential for harm” or “no negative outcome” account for about 2,500 of the 
 substantiated complaints that are missing from the website, or around 30 percent of the records that have been kept offline. The 
 state fined the facilities in hundreds of those cases."
-- __Analysis__: [This notebook](notebooks/analysis/complaints-analysis-after-state-updates.ipynb)
+- __Analysis__: [This notebook](notebooks/analysis/complaints-analysis-after-state-updates.ipynb).
 
 ***
 
@@ -97,8 +97,7 @@ state fined the facilities in hundreds of those cases."
 an assisted living facility, in a three-month period in 2013. One resident reported missing $300. In each case, the state faulted the
 facility for failing to provide a safe environment for residents, a violation of Oregon’s long-term care regulations. None of these 
 substantiated complaints are on the state’s website."
-
-- __Analysis__: [This notebook](database-story/notebooks/analysis/emeritus-springfield-woodside-and-briarwood.ipynb)
+- __Analysis__: [This notebook](database-story/notebooks/analysis/emeritus-springfield-woodside-and-briarwood.ipynb).
 
 ***
 
@@ -114,15 +113,13 @@ substantiated complaints are on the state’s website.
 
    Search the state website for “Emeritus at Springfield-The Briarwood,” and you’ll find records corresponding to thefts 
    of two fishing poles, tackle boxes and $370 in cash."
-
-- __Analysis__: [This notebook](database-story/notebooks/analysis/emeritus-springfield-woodside-and-briarwood.ipynb)
+- __Analysis__: [This notebook](database-story/notebooks/analysis/emeritus-springfield-woodside-and-briarwood.ipynb).
 
 ***
 
 - __Passage__: "Of the roughly 650 care centers licensed in Oregon, more than a quarter have complaints that can be found only
 under their previous names."
-
-- __Analysis__: [This notebook](database-story/notebooks/analysis/facilities-analysis-after-state-updates.ipynb)
+- __Analysis__: [This notebook](database-story/notebooks/analysis/facilities-analysis-after-state-updates.ipynb).
 
 ***
 
@@ -132,15 +129,13 @@ Seventeen of those happened in the two years before the current owners took over
 
    It would take a thorough knowledge of the home’s history to find them. River Grove used to be Santa Clara Special Care Community.
    Before that, Sierra Oaks of Santa Clara. Before that, Santa Clara Residential Inn."
-
-- __Analysis__: [This notebook](database-story/notebooks/analysis/river-grove-memory-care.ipynb)
+- __Analysis__: [This notebook](database-story/notebooks/analysis/river-grove-memory-care.ipynb).
 
 ***
 
 - __Passage__: "Of the roughly 650 care centers licensed in Oregon, more than a quarter have complaints that can be found only
 under their previous names."
-
-- __Analysis__: [This notebook](database-story/notebooks/analysis/facilities-analysis-after-state-updates.ipynb)
+- __Analysis__: [This notebook](database-story/notebooks/analysis/facilities-analysis-after-state-updates.ipynb).
 
 ***
 
