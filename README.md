@@ -1,7 +1,7 @@
 # Long-term Care Complaints Data and Analysis
 
-This repo covers the raw data, munging of that data, and analysis that support several 
-passages in the story "Kept in the Dark", published on oregonlive.com on April 21, 2017, and in print on April 23.
+This repo includes the data and code that support eleven 
+passages in the story "Kept in the Dark", published online on oregonlive.com on April 21, 2017, and in the print edition of The Oregonian on April 23.
 
 The [data](https://github.com/TheOregonian/database-story/blob/master/data), [notebooks](https://github.com/TheOregonian/database-story/blob/master/notebooks) and [scraper](https://github.com/TheOregonian/database-story/blob/master/scraper) folders have their own README files, if you'd like more details. 
 
