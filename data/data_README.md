@@ -1,5 +1,7 @@
 ## Data
 
+<strong>You are free to download and use the data, on the condition that you credit The Oregonian/OregonLive if any print or online product rely on them.</strong> 
+
 These are the datasets relied on for all analyses:
 
 1. Complaints substantiated by the Department of Human Service's Aging and Disabilities 
