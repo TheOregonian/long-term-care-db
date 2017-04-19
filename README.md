@@ -67,7 +67,7 @@ accurate records online."
 accurate records online. 
 
    Of the 642 facilities open as of late last year, 585 had incomplete records at the time of the analysis. Of those, about 350 had 
-   more than double the number of complaints shown on the state’s website. Sixty care centers falsely appeared to have perfect 
+   more than double the number of complaints shown on the state’s website. Fifty-nine care centers falsely appeared to have perfect 
    records. Just like Washington Gardens, they had zero complaints online. In reality, none of these places were complaint-free. 
 
    In all, facilities with incomplete records have the combined capacity to serve 
