@@ -1,6 +1,6 @@
 ## Data
 
-<strong>You are free to download and use the data, on the condition that you credit The Oregonian/OregonLive if any print or online product rely on them.</strong> 
+<strong>You are free to download and use the data, on the condition that you credit The Oregonian/OregonLive in any publication that relies on them.</strong> 
 
 These are the datasets relied on for all analyses:
 
