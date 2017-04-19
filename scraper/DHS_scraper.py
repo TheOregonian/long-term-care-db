@@ -100,11 +100,11 @@ data.drop('load_of_info',1, inplace = True)
 '''
 Export csv with complaints
 '''
-data.to_csv('/Users/fzarkhin/OneDrive - Advance Central Services, Inc/fproj/github/database-story/data/scraped/scraped_complaints_4_14.csv', index = False)
+data.to_csv('/Users/fzarkhin/OneDrive - Advance Central Services, Inc/fproj/github/database-story/data/scraped/scraped_complaints_4_19.csv', index = False)
 '''
 Export csv with total complaints per facility, as per the site itself.
 '''
-pd.DataFrame(totals_list_for_export, link_list_for_export).reset_index().to_csv('/Users/fzarkhin/OneDrive - Advance Central Services, Inc/fproj/github/long-term-care/scraped_data/scraped_complaint_totals.csv')
+pd.DataFrame(totals_list_for_export, link_list_for_export).reset_index().to_csv('/Users/fzarkhin/OneDrive - Advance Central Services, Inc/fproj/github/long-term-care/scraped_data/scraped_complaint_totals_4_19.csv')
 
 #How long did all of this take?
 print (datetime.now() - startTime)
