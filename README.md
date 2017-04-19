@@ -3,7 +3,7 @@
 This repo includes the data and code that support eleven 
 passages in the story "Kept in the Dark", published online on oregonlive.com on April 21, 2017, and in the print edition of The Oregonian on April 23.
 
-The [data](https://github.com/TheOregonian/database-story/blob/master/data), [notebooks](https://github.com/TheOregonian/database-story/blob/master/notebooks) and [scraper](https://github.com/TheOregonian/database-story/blob/master/scraper) folders have their own README files, if you'd like more details. 
+Below find listed passages from the story and links to the code that substantiates them. The [data](https://github.com/TheOregonian/database-story/blob/master/data), [notebooks](https://github.com/TheOregonian/database-story/blob/master/notebooks) and [scraper](https://github.com/TheOregonian/database-story/blob/master/scraper) folders have their own README files, if you'd like more details about the raw data, munging and scraping behind the analyses.
 
 ## Analyses
 
