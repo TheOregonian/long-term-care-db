@@ -1,7 +1,7 @@
 # Long-term Care Complaints Data and Analysis
 
-This repo includes the data and code that support eleven 
-passages from the story "[Kept in the Dark](www.oregonlive.com/senior-care)", published online on oregonlive.com on April 21, 2017 and in print on April 23.
+This repo includes the data and code that support ten 
+passages from the story "Kept in the Dark" (www.oregonlive.com/senior-care), published online on oregonlive.com on April 21, 2017 and in print on April 23.
 
 Below are passages from the story and links to the code that substantiates them. The [data](https://github.com/TheOregonian/database-story/blob/master/data), [notebooks](https://github.com/TheOregonian/database-story/blob/master/notebooks) and [scraper](https://github.com/TheOregonian/database-story/blob/master/scraper) folders have their own README files, if you'd like more details.
 
@@ -27,12 +27,6 @@ substantiated findings of abuse, neglect or poor care."
 
 - __Passage__: "About 600 nursing homes and other senior care centers around Oregon have incomplete records online, 
 The Oregonian/OregonLive’s analysis found."
-- __Analysis__: [This notebook](https://github.com/TheOregonian/database-story/blob/master/notebooks/analysis/facilities-analysis.ipynb).
-
-***
-
-- __Passage__: "Just 9 percent of residential care centers, assisted living facilities and nursing homes had 
-accurate records online."
 - __Analysis__: [This notebook](https://github.com/TheOregonian/database-story/blob/master/notebooks/analysis/facilities-analysis.ipynb).
 
 ***
