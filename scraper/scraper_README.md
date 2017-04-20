@@ -8,6 +8,6 @@ The scrape first puts into a spreadsheet a list of all facilities that match the
 
 ## Scraper Verification.ipynb
 
-For the manual verification process, I went to the page and put in the exact same search parameters as the scrape. I copy-pasted the results into a spreadsheet and cleaned them up. Then I added the 'total complaints.' The number was off from my scrape by a hanful of complaints. I checked the ones that didn't match. In each of those cases, the 'total complaints' in the search did not match the actual number of complaints shown on the facility page. 
+For the manual verification process, I went to the page and put in the exact same search parameters as the scrape. I copy-pasted the results into a spreadsheet and cleaned them up. Then I added the 'total complaints.' The number was off from my scrape by a handful of complaints. I checked the ones that didn't match. In each of those cases, the 'total complaints' in the search did not match the actual number of complaints shown on the facility page. 
 
 I used two scrape outputs for this analysis, one from 3/25/2017 and another form 3/29/2017.
