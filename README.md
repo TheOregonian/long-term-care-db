@@ -34,7 +34,7 @@ The Oregonian/OregonLive’s analysis found."
 - __Passage__: "Just 9 percent of residential care centers, assisted living facilities and nursing homes had 
 accurate records online. 
 
-   Of the 642 facilities open as of late last year, 585 had incomplete records at the time of the analysis. Of those, about 350 had 
+   Of the 642 facilities open as of late last year, 583 had incomplete records at the time of the analysis. Of those, about 350 had 
    more than double the number of complaints shown on the state’s website. Fifty-nine care centers falsely appeared to have perfect 
    records. Just like Washington Gardens, they had zero complaints online. In reality, none of these places were complaint-free. 
 
