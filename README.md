@@ -103,4 +103,4 @@ at [fzarkhin@oregonian.com.](fzarkhin@oregonian.com)
 
 ## License
 
-[MIT](database-story/LICENSE)
+[MIT](long-term-care-db/LICENSE)
